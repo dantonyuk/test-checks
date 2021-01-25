@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CHECK1=true
+CHECK2=true
+
+if [ "$CHECK$1" != "true" ]
+then
+    exit 1
+fi
