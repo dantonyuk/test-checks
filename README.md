@@ -7,4 +7,10 @@ on github checks.
 
 Fix github action workflow files location.
 
-Please read the description of [PR #1](#1).
+## PR 2
+
+To see how checks look like.
+
+## Link
+
+Please read the description of [the test pull request](#2).
