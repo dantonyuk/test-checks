@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CHECK1=true
+CHECK1=false
 CHECK2=true
 
 CHECK_NAME=CHECK${1}
