@@ -11,4 +11,6 @@ Fix github action workflow files location.
 
 To see how checks look like.
 
-Please read the description of [PR #1](#1).
+## Link
+
+Please read the description of [the test pull request](#2).
