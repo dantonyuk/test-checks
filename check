@@ -3,7 +3,8 @@
 CHECK1=true
 CHECK2=true
 
-if [ "$CHECK$1" != "true" ]
+CHECK_NAME=CHECK${1}
+if [ "${!CHECK_NAME}" != "true" ]
 then
     exit 1
 fi
