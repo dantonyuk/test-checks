@@ -5,4 +5,4 @@ on github checks.
 
 ## PR 1
 
-Just a regular PR to see how checks look like.
+Fix github action workflow files location.
