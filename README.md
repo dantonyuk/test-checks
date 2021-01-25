@@ -6,3 +6,7 @@ on github checks.
 ## PR 1
 
 Fix github action workflow files location.
+
+## PR 2
+
+To see how checks look like.
