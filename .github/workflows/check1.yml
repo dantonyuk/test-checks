@@ -1,8 +1,7 @@
 name: Check1
 
 on:
-  pull_request:
-    branches: [ master ]
+  - pull_request
 
 jobs:
   check1:
